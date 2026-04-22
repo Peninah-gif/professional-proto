@@ -1,0 +1,10 @@
+--------------------------------
+HEADER (my description)
+--------------------------------
+NAV (Home | About | Projects)
+--------------------------------
+MAIN CONTENT
+   - Introduction about you
+--------------------------------
+FOOTER (Contact info)
+--------------------------------
